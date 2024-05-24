@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#box{
+    width: 17vw;
+    height: 15vh;
+    margin: 10px;
+    border: 2px solid black;}
